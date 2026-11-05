@@ -22,7 +22,7 @@ Manage dealers, sales, purchases, customers, suppliers, inventory, and more with
 
 ## Tech Stack
 
-- **Backend:** .NET Core, Entity Framework Core  
+- **Backend:** .NET Core, Entity Framework Core ,asp.net
 - **Frontend:** Blazor, React, Bootstrap  
 - **Database:** SQL Server  
 - **Tools:** Azure, Docker  
@@ -43,3 +43,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/irfansybex/CarDealPro.git
+
